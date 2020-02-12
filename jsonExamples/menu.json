@@ -1,0 +1,29 @@
+{
+    "PERSON": [
+        {
+            "nisha_details": {
+                "name": "nisha",
+                "age": 23,
+                "hobby": "painting"
+            },
+            "pranu_details": {
+                "name": "pranu",
+                "age": 23,
+                "hobby": "sketching"
+            }
+        },
+        {
+            "kajal_details": {
+                "name": "kaju",
+                "age": 23,
+                "hobby": "laughing"
+            },
+            "sonam_details":{
+                "name": "sonam",
+                "age": 23,
+                "hobby": "talking"
+            }
+            
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "EMPLOYEE": [
+        {
+            "pranali_Details": {
+                "name": "Pranali",
+                "salary": 100000,
+                "age": 23
+            },
+            "sachin_Details": {
+                "name": "Sachin",
+                "salary": 200000,
+                "age": 22
+            }
+        },
+        {
+            "pranavvli_Details": {
+                "name": "Pranali",
+                "salary": 100000,
+                "age": 23
+            },
+            "sachin_Details": {
+                "name": "Sachin",
+                "salary": 200000,
+                "age": 22
+            }
+            
+        }
+    ]
+}
